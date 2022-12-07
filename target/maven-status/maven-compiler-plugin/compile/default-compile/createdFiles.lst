@@ -1,0 +1,5 @@
+com\cloud\googlepubsubmaven\InputDetails.class
+com\cloud\googlepubsubmaven\InputDetailsRepo.class
+com\cloud\googlepubsubmaven\GooglepubsubmavenApplication.class
+com\cloud\googlepubsubmaven\GooglePubSubController.class
+com\cloud\googlepubsubmaven\GooglepubsubmavenApplication$PubsubOutboundGateway.class
